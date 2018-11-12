@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Proyecto de Alfredo</title>
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+</head>
+ <body bgcolor="#87CEEB">
+ 
+    <div id="principal">
+    <header>
+        <div id="logo">
+            <h2>CUIDADO CON EL AGUA</h2>
+        </div>
+
+        <nav class="menu">
+            <ul>
+                <li><a href="index.html">pagina 1</a></li>
+                <li><a href="pagina.html">pagina 2</a></li>
+                 </ul>
+        </nav>
+    </header>
+
+        <section id="slide">
+            <img src="imagenes\IMGPRIN.jpg" width="900" height="250" />
+        </section>
+
+        <section id="categorias">
+            <section class="uno">
+                <img src="imagenes\lmao.jpg" width="250" height="150"/>
+            <h2>¿POR QUE CUIDAR EL AGUA?</h2>
+            <p class="parrafo">El agua es el elemento más importante para la vida. Es de una importancia vital para el ser humano, así como para el resto de animales y seres vivos que nos acompañan en el planeta Tierra.</p>
+            </section>
+            <section class="uno dos">
+                <img src="imagenes\Manglares-960x500.jpg" width="250" height="150">
+                <h2>COMO CUIDAR EL AGUA</h2>
+                <p class="parrafo">
+                    Cerrar las canillas durante el cepillado de dientes, en lugar de dejar correr el agua.
+                    
+                    No dejar goteando las canillas.
+                    
+                    Usar los baldes para lavar los autos en lugar de la manguera.
+                    
+                    Hacer duchas más cortas.
+                    
+                    Reciclar el agua de la pileta para regar las plantas o baldear la vereda.</p>
+            </section>
+            <section class="uno">
+                <h2>¿Por qué hay que cuidar el agua?</h2>
+                <p class="parrafo">
+                    <iframe width="290" height="306" src="https://www.youtube.com/embed/4slOW0tgDjs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </section>
+        </section>
+    </div>
+</body>
+</html>
